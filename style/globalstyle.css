@@ -1,11 +1,27 @@
 @font-face {
-    font-family: 'tzy';
-    /* 字体名自定义即可 */
+    font-family: 'ygo';
     src: url('https://cdn.jsdelivr.net/gh/yusei8023/yusei8023.github.io/style/font.ttf');
-    /* 字体文件路径 */
     font-display: swap;
 }
-
 body{
-    font-family: tzy !important;
+    font-family: ygo !important;
+}
+#footer {
+    background: rgba(255,255,255,.15);
+    color: #000;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    backdrop-filter: saturate(100%) blur(5px)
+}
+
+#footer::before {
+    background: rgba(255,255,255,.15)
+}
+
+#footer #footer-wrap {
+    color: var(--font-color)
+}
+
+#footer #footer-wrap a {
+    color: var(--font-color)
 }
