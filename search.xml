@@ -8,7 +8,7 @@
       <link href="/2021/09/17/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/"/>
       <url>/2021/09/17/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B/</url>
       
-        <content type="html"><![CDATA[<h1 style="color:red">我的博客能跑了吗</h1>]]></content>
+        <content type="html"><![CDATA[<h1 style="color:red">我的博客能跑了吗</h1><p>水字数水字数水字数水字数水字数水字数水字数水字数水字数水字数水字数水字数水字数水字数水字数水字数水字数水字数水字数水字数水字数水字数水字数水字数水字数水字数</p>]]></content>
       
       
       
@@ -27,9 +27,17 @@
       <link href="/2021/09/17/%E5%88%9D%E6%B0%B4/"/>
       <url>/2021/09/17/%E5%88%9D%E6%B0%B4/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">google_adsense:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">auto_ads:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">js:</span> <span class="string">https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js</span></span><br><span class="line">  <span class="attr">client:</span> <span class="comment"># 填入个人识别码</span></span><br><span class="line">  <span class="attr">enable_page_level_ads:</span> <span class="literal">true</span></span><br></pre></td></tr></table></figure>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> Test </tag>
+            
+            <tag> Try </tag>
+            
+        </tags>
       
     </entry>
     
