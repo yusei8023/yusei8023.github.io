@@ -4,36 +4,11 @@
   
     
     <entry>
-      <title>关于页面的删除</title>
-      <link href="/2021/09/18/%E5%85%B3%E4%BA%8E%E9%A1%B5%E9%9D%A2%E7%9A%84%E5%88%A0%E9%99%A4/"/>
-      <url>/2021/09/18/%E5%85%B3%E4%BA%8E%E9%A1%B5%E9%9D%A2%E7%9A%84%E5%88%A0%E9%99%A4/</url>
-      
-        <content type="html"><![CDATA[<p>ttt</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> musics </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> music </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>aplayer的配置</title>
       <link href="/2021/09/18/aplayer%E7%9A%84%E9%85%8D%E7%BD%AE/"/>
       <url>/2021/09/18/aplayer%E7%9A%84%E9%85%8D%E7%BD%AE/</url>
       
-        <content type="html"><![CDATA[<h1 id="Aplayer的配置问题"><a href="#Aplayer的配置问题" class="headerlink" title="Aplayer的配置问题"></a>Aplayer的配置问题</h1><p><strong>Aplayer设置吸底的时候，会出现有时消失有时出现的问题，最终发现是因为网易云分享的歌单问题，因为分享个人喜好歌单的情况，外部链接访问会不可达</strong></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Aplayer的配置问题"><a href="#Aplayer的配置问题" class="headerlink" title="Aplayer的配置问题"></a>Aplayer的配置问题</h1><p><strong>Aplayer设置吸底的时候，会出现有时消失有时出现的问题，最终发现是因为网易云分享的歌单问题，目前通过QQ音乐的歌单分享链接进行解析。</strong></p>]]></content>
       
       
       <categories>
